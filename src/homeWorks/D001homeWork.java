@@ -1,5 +1,6 @@
 package homeWorks;
 
+
 // Задание № 1. Создать пустой проект в IntelliJ IDEA и прописать метод main();
 
 public class D001homeWork {
