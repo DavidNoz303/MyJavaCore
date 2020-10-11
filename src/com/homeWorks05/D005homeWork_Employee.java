@@ -1,4 +1,4 @@
-package homeWorks05;
+package com.homeWorks05;
 
 public class D005homeWork_Employee {
     private String fullName;

@@ -1,4 +1,4 @@
-package lesson4;
+package com.homeWorks04;
 //Website 1: for practise : https://acmp.ru/
 //Website 2: for practise : https://www.codewars.com/
 import java.util.Random;
