@@ -14,6 +14,8 @@ public class D003homeWork_2 {
                           "mushroom", "nut", "olive", "pea", "peanut",
                           "pear", "pepper", "pineapple", "pumpkin", "potato"};
 
+
+
         String selectedWord = words[(int)Math.floor(Math.random()*words.length)];
 
         System.out.println("You have to guess a word!\nThe word is one of the following words in this list : ");
